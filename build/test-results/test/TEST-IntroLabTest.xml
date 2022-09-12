@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IntroLabTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-09-12T23:33:58" hostname="Xus-MacBook-Pro.local" time="0.053">
+  <properties/>
+  <testcase name="testXumiche6" classname="IntroLabTest" time="0.052"/>
+  <testcase name="testExampleStudent" classname="IntroLabTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
